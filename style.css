@@ -1,0 +1,16 @@
+#camera,#result{
+    width:300px;
+    height:350px;
+    border:black dashed 4px;
+    background-color: white;
+}
+.header{
+    letter-spacing: 10px;
+    font-size: 30px;
+}
+body{
+    background: url("https://www.visitspacecoast.com/sites/default/files/legacy_images/DSC_5615_7ee1515a-6e6f-4390-b2a8-9f4cabd157af.jpg");
+    background-position: center;
+    background-size: cover;
+    color:white;
+}
